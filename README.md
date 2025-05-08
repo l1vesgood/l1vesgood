@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
+
+![meow](https://raw.githubusercontent.com/l1vesgood/l1vesgood/refs/heads/main/a_830c68b2674f605bb35031b17d0ef235.gif)
+
 <!--
 **l1vesgood/l1vesgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
