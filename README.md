@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,vscode,docker)](https://skillicons.dev)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://livesgood.t.me)
 
